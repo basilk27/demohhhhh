@@ -118,3 +118,7 @@ modules.xml
 
 # Sonarlint plugin
 .idea/sonarlint
+
+.mvn/*
+mvnw
+mvnw.cmd
